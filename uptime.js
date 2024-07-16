@@ -7,7 +7,7 @@ module.exports = {
     name: "uptime",
     version: "𝟣.𝟩",
     countDown: 10,
-    author: "Rizky Z (hadi)",
+    author: "Hady Zen", 
     role: 0,
     description: "𝗂𝗇𝖿𝗈𝗋𝗆𝖺𝗌𝗂 𝗐𝖺𝗄𝗍𝗎 𝖺𝗄𝗍𝗂𝖿 𝗂𝗍𝗌𝗎𝗄𝗂", 
     category: "SISTEM",
