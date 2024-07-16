@@ -1,10 +1,10 @@
-[{ nama: "bing", id: 1, code: "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bing.js" },
-{ nama: "", id: 2, code: "" },
-{ nama: "", id: 3, code: "" },
-{ nama: "", id: 4, code: "" },
-{ nama: "", id: 5, code: "" },
-{ nama: "", id: 6, code: "" },
-{ nama: "", id: 7, code: "" },
-{ nama: "", id: 8, code: "" },
-{ nama: "", id: 9, code: "" },
-{ nama: "", id: 10, code: "" }]
+[{ 'nama': 'bing', 'id': 1, 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bing.js' }
+ { 'nama': '', 'id': 2, 'code': '' }
+ { 'nama': '', 'id': 3, 'code': '' }
+ { 'nama': '', 'id': 4, 'code': '' }
+ { 'nama': '', 'id': 5, 'code': '' }
+ { 'nama': '', 'id': 6, 'code': '' }
+ { 'nama': '', 'id': 7, 'code': '' }
+ { 'nama': '', 'id': 8, 'code': '' }
+ { 'nama': '', 'id': 9, 'code': '' }
+ { 'nama': '', 'id': 10, 'code': '' }]
