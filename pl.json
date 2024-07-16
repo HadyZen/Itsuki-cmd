@@ -1,4 +1,4 @@
-[ "hadi": { 'nama': 'bing', 'id': 1, 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bing.js' }, 
+"hadi": [{ 'nama': 'bing', 'id': 1, 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bing.js' }, 
  { 'nama': 'bot', 'id': 2, 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bot.js' }, 
  { 'nama': 'ffc', 'id': 3, 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/ffc.js' }, 
  { 'nama': 'fish', 'id': 4, 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/fish.js' }, 
