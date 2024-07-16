@@ -3,9 +3,9 @@ kamu bebas mengambil cmd tersebut tapi jangan mengganti author nya, hargailah pe
 
 
 ##Develover
-Nama: Hadi pranata <br />
-Facebook: facebook.com/hady.zen.in <br />
-Grup: https://m.me/j/AbahWyr2SgCmw6k4/ <br />
-Grup: facebook.com/share/kfnXuCmdzFY6zuxg/
+- Nama: Hadi pranata <br />
+- Facebook: https://facebook.com/hady.zen.in <br />
+- Grup: https://m.me/j/AbahWyr2SgCmw6k4/ <br />
+- Grup: https://facebook.com/share/kfnXuCmdzFY6zuxg/
 
 # itsuki Nakano
