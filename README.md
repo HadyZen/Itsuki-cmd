@@ -1,4 +1,4 @@
-![Itsuki](https://i.ibb.co/S7NGyqQ/441990035-719770016836199-2138699235077975555-n-jpg-stp-dst-jpg-p480x480-nc-cat-109-ccb-1-7-nc-sid-9.jpg) 
+![Itsuki](https://i.ibb.co/sPWYKKX/448604404-1111634999930806-6165592303705221416-n-jpg-nc-cat-101-ccb-1-7-nc-sid-9f807c-nc-eui2-Ae-EXz.jpg) 
 
 Ini adalah cmd gratis by hady zen <br />
 kamu bebas mengambil cmd tersebut tapi jangan mengganti author nya, hargailah pembuat cmd nya yang telah membagikan cmd gratis untuk kamu! 🥀
