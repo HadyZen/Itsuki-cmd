@@ -13,4 +13,4 @@
  { 'nama': 'spin', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/spin.js' },
  { 'nama': 'status', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/status.js' },
  { 'nama': 'tr', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/tr.js' },
- { 'nama': 'uptime', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/uptime.js' }];
+ { 'nama': 'uptime', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/uptime.js' }]
