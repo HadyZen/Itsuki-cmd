@@ -1,4 +1,4 @@
-[{ 'nama': 'bing', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bing.js' }, 
+ { 'nama': 'bing', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bing.js' }, 
  { 'nama': 'bot', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bot.js' }, 
  { 'nama': 'ffc', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/ffc.js' }, 
  { 'nama': 'fish', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/fish.js' }, 
@@ -13,4 +13,4 @@
  { 'nama': 'spin', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/spin.js' },
  { 'nama': 'status', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/status.js' },
  { 'nama': 'tr', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/tr.js' },
- { 'nama': 'uptime', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/uptime.js' }]
+ { 'nama': 'uptime', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/uptime.js' }
