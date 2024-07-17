@@ -1,7 +1,0 @@
-nama: bing 
-id: 1
-code: https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bing.js
-
-nama: bot
-id: 2
-code: "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bot.js
