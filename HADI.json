@@ -20,6 +20,10 @@
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/fish.js"
   },
   {
+    "nama": "gemini",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/gemini.js"
+  },
+  {
     "nama": "gpt",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/gpt.js"
   },
