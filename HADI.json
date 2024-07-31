@@ -19,6 +19,10 @@
     "nama": "gpt",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/gpt.js"
   },
+    {
+    "nama": "gpt4",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/gpt4.js"
+  },
   {
     "nama": "imgbb",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/imgbb.js"
