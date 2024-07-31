@@ -12,6 +12,10 @@
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bot.js"
   },
   {
+    "nama": "daily",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/daily.js"
+  },
+  {
     "nama": "ffc",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/ffc.js"
   },
