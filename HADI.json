@@ -40,6 +40,10 @@
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/menu.js"
   },
   {
+    "nama": "quote",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/quote.js"
+  },
+  {
     "nama": "math",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/math.js"
   },
