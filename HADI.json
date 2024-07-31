@@ -35,6 +35,10 @@
     "nama": "menu",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/menu.js"
   },
+    {
+    "nama": "rand",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/rand.js"
+  },
   {
     "nama": "redeem",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/redeem.js"
