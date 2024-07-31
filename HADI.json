@@ -39,7 +39,11 @@
     "nama": "menu",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/menu.js"
   },
-    {
+  {
+    "nama": "math",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/math.js"
+  },
+  {
     "nama": "rand",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/rand.js"
   },
@@ -51,7 +55,7 @@
     "nama": "report",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/report.js"
   },
-    {
+  {
     "nama": "stach",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/setach.js"
   },
