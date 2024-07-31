@@ -44,6 +44,10 @@
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/menu.js"
   },
   {
+    "nama": "pay",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/pay.js"
+  },
+  {
     "nama": "quote",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/quote.js"
   },
