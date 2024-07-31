@@ -1,5 +1,9 @@
 [
   {
+    "nama": "ach",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/ach.js"
+  },
+  {
     "nama": "bing",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bing.js"
   },
