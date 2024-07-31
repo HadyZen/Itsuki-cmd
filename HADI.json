@@ -1,16 +1,66 @@
- { 'nama': 'bing', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bing.js' }, 
- { 'nama': 'bot', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bot.js' }, 
- { 'nama': 'ffc', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/ffc.js' }, 
- { 'nama': 'fish', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/fish.js' }, 
- { 'nama': 'gpt', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/gpt.js' }, 
- { 'nama': 'imgbb', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/imgbb.js' }, 
- { 'nama': 'maintain', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/maintain.js' }, 
- { 'nama': 'manu', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/menu.js' }, 
- { 'nama': 'redeem', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/redeem.js' }, 
- { 'nama': 'report', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/report.js' },
- { 'nama': 'setn', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/setn.js' },
- { 'nama': 'sett', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/sett.js' },
- { 'nama': 'spin', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/spin.js' },
- { 'nama': 'status', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/status.js' },
- { 'nama': 'tr', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/tr.js' },
- { 'nama': 'uptime', 'code': 'https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/uptime.js' }
+[
+  {
+    "nama": "bing",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bing.js"
+  },
+  {
+    "nama": "bot",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/bot.js"
+  },
+  {
+    "nama": "ffc",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/ffc.js"
+  },
+  {
+    "nama": "fish",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/fish.js"
+  },
+  {
+    "nama": "gpt",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/gpt.js"
+  },
+  {
+    "nama": "imgbb",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/imgbb.js"
+  },
+  {
+    "nama": "maintain",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/maintain.js"
+  },
+  {
+    "nama": "menu",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/menu.js"
+  },
+  {
+    "nama": "redeem",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/redeem.js"
+  },
+  {
+    "nama": "report",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/report.js"
+  },
+  {
+    "nama": "setn",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/setn.js"
+  },
+  {
+    "nama": "sett",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/sett.js"
+  },
+  {
+    "nama": "spin",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/spin.js"
+  },
+  {
+    "nama": "status",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/status.js"
+  },
+  {
+    "nama": "tr",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/tr.js"
+  },
+  {
+    "nama": "uptime",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/uptime.js"
+  }
+]
