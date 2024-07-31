@@ -52,6 +52,10 @@
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/menu.js"
   },
   {
+    "nama": "pair",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/pair.js"
+  },
+  {
     "nama": "pay",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/pay.js"
   },
