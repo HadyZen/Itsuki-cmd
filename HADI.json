@@ -43,6 +43,10 @@
     "nama": "report",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/report.js"
   },
+    {
+    "nama": "stach",
+    "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/setach.js"
+  },
   {
     "nama": "setn",
     "code": "https://raw.githubusercontent.com/HadyZen/Itsuki-cmd/main/setn.js"
